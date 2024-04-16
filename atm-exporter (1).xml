@@ -1,0 +1,4053 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10000</projectId>
+    <projectKey>SCRUM</projectKey>
+    <exportDate>2024-04-16 08:50:51 UTC</exportDate>
+    <folders>
+        <folder fullPath="Account Information" index="9"/>
+        <folder fullPath="Add To Cart" index="5"/>
+        <folder fullPath="Address Book" index="11"/>
+        <folder fullPath="Change Password" index="10"/>
+        <folder fullPath="Download" index="13"/>
+        <folder fullPath="Edit Account" index="6"/>
+        <folder fullPath="Forget Password" index="2"/>
+        <folder fullPath="Login" index="1"/>
+        <folder fullPath="NewsLetter" index="14"/>
+        <folder fullPath="Order History" index="12"/>
+        <folder fullPath="Product Compare" index="4"/>
+        <folder fullPath="REGISTRATION " index="0"/>
+        <folder fullPath="Reward Point" index="15"/>
+        <folder fullPath="Search Functionality" index="3"/>
+        <folder fullPath="Shopping Cart" index="7"/>
+        <folder fullPath="Wish List" index="8"/>
+    </folders>
+    <testCases>
+        <testCase id="153658255" key="SCRUM-T115">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:08 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Logo Of the Register Page.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Logo Of the  register Page Should be is clear.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658256" key="SCRUM-T116">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:08 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Logo is Clear or not to user.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Logo Of the  register Page Should be is clear.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658257" key="SCRUM-T117">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:08 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Logo is Clickable or not.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Logo of the Register page must be clickable]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                    <step index="1">
+                        <customFields/>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658258" key="SCRUM-T118">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:08 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if User Click Logo , open homepage]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[We Must be see Homepage]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658259" key="SCRUM-T119">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:08 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check First Name Limit.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[We Must See : First Name Must be Between 1 to 32 Characters.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658260" key="SCRUM-T120">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:08 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check First name Accept Special Characters.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Error Message : You Never Show Any Error]]></expectedResult>
+                        <testData><![CDATA[priyank@]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658261" key="SCRUM-T121">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:08 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check First name Accept Characters.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Characters Should be allowed First Name Field]]></expectedResult>
+                        <testData><![CDATA[priyanka]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658262" key="SCRUM-T122">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:08 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check First Name Accept number.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Error Message : You Never see Any Error message.]]></expectedResult>
+                        <testData><![CDATA[priyanka123]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658263" key="SCRUM-T123">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:09 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if  first Name is empty.]]></name>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Error Message : First Name is Required]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658264" key="SCRUM-T124">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:09 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Last Name Limit.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[You Must See : Last Name Must be Between 1 to 32 Characters.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658265" key="SCRUM-T125">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:09 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Last Name is Accept Special Character.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Error Message : You Never see Any Error message.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658266" key="SCRUM-T126">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:09 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Last Name is Accept Characters.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Characters Should be allowed Last Name Field]]></expectedResult>
+                        <testData><![CDATA[gurav]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658267" key="SCRUM-T127">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:09 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Last Name is  Accept  Number.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Error Message : You Never see Any Error message.]]></expectedResult>
+                        <testData><![CDATA[gurav11]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658268" key="SCRUM-T128">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:09 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if  Last Name is accept Empty.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Error Message : Last Name must be Required.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658269" key="SCRUM-T129">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:09 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Email Limit As Per FRS doc.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658270" key="SCRUM-T130">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:09 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Email Accept more than one Special Character.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Error Message : You Never see Any Error message.]]></expectedResult>
+                        <testData><![CDATA[pri123@#gmail.com]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658271" key="SCRUM-T131">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:09 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Email Accept  Character.]]></name>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Not show Any Message.]]></expectedResult>
+                        <testData><![CDATA[priya@gmail.com]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658272" key="SCRUM-T132">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:09 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Email Accept Number.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Not show Any Message.]]></expectedResult>
+                        <testData><![CDATA[priya1234@gmail.com]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658273" key="SCRUM-T133">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:10 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if Email field is  accept Empty.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Error Message : Email is required]]></expectedResult>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658274" key="SCRUM-T134">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:10 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Country Field Is Clickable .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Country Field must be Clickable]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658275" key="SCRUM-T135">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:10 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check How much  time take to show result ,user Click Country field]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Country Field must be open Within time]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658276" key="SCRUM-T136">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:10 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check All the country are available to country Drop Down.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[You Must see All the country]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658277" key="SCRUM-T137">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:10 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Country Spell.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Spell of country name is correct . You must be see]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658278" key="SCRUM-T138">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:10 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Country List As per Alphabetic Series.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Country List must be show as per alphabetic Series]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658279" key="SCRUM-T139">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:10 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check How much  time take to show result if user Click any Country .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Country list must open within a time]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658280" key="SCRUM-T140">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:10 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Limit Of the Password Field.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Error Message : Password must be between 2 to 20 Characters]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658281" key="SCRUM-T141">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:10 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Password Accept Special Character.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Not show Any Message.]]></expectedResult>
+                        <testData><![CDATA[pri123@]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658282" key="SCRUM-T142">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:10 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Password Accept Character.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Not show Any Message.]]></expectedResult>
+                        <testData><![CDATA[priyanak]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658284" key="SCRUM-T144">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:11 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Password Accept Empty.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Error Meassage : Password Must be Required.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658285" key="SCRUM-T145">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:11 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Password Field Is Clickable or not.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Password Field must be Clickable]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658286" key="SCRUM-T146">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:11 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Captcha Show Correct Information.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Captcha must show correct information]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658287" key="SCRUM-T147">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:11 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Captcha 's option Is clickable .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Captcha Option must be clickable]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658288" key="SCRUM-T148">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:11 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Captcha option is show Clear to user.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                        See register page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[Captcha option must be show clear to user]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658289" key="SCRUM-T149">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:38 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check All important Elements are present in Register Account Page. (cloned)]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                              Click Register Option.                 See Registion Page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[All the Important of the Register field Must be See Correctly And Clearly .]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153658290" key="SCRUM-T150">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 08:35:38 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[REGISTRATION ]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Alignment, text Size, Text Height, Text ,Text Colour As per FRS Document. (cloned)]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <precondition><![CDATA[Open Application : https://demo.opencart.com) in any Browser                              Click Register Option.                 See Registion Page]]></precondition>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <expectedResult><![CDATA[All important points like Alignment , text must be see As per FRS Doc. You MUST be See]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153659975" key="SCRUM-T257">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:23:23 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Login]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check All the important Field are present in Login Page.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Low]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go To WebSite                              Click Login Page]]></description>
+                        <expectedResult><![CDATA[You Must See , All the important element present In Login page]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153659976" key="SCRUM-T258">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:23:23 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Login]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Enter Valid Email And Invalid Password.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go To WebSite                              Click Login Page]]></description>
+                        <expectedResult><![CDATA[Not show Any Message in Login Page]]></expectedResult>
+                        <testData><![CDATA[Email  : pqr123@gmail.com       Password : 12345656]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153659977" key="SCRUM-T259">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:23:23 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Login]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Enter Invalid Email And Valid Password.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go To WebSite                              Click Login Page]]></description>
+                        <expectedResult><![CDATA[Not show Any Message in Login Page]]></expectedResult>
+                        <testData><![CDATA[Email  : pqrqw123@gmail.com       Password : 123457]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153659978" key="SCRUM-T260">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:23:23 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Login]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Enter Valid Email and valid Password.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go To WebSite                              Click Login Page]]></description>
+                        <expectedResult><![CDATA[Successfully Login You Must be See]]></expectedResult>
+                        <testData><![CDATA[Email  : pqr123@gmail.com       Password : 123457]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153659979" key="SCRUM-T261">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:23:23 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Login]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Enter Invalid Email And Invalid Password.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go To WebSite                              Click Login Page]]></description>
+                        <expectedResult><![CDATA[Not show Any Message in Login Page]]></expectedResult>
+                        <testData><![CDATA[Email  : pqrew123@gmail.com       Password : 123459454]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153659980" key="SCRUM-T262">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:23:23 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Login]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Login Button IS clickable .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go To WebSite                              Click Login Page]]></description>
+                        <expectedResult><![CDATA[You Must See , Login Button is Clickable.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153659981" key="SCRUM-T263">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:23:23 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Login]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Login Button is Click Within time.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go To WebSite                              Click Login Page]]></description>
+                        <expectedResult><![CDATA[You must see , Login Button click Within time]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660040" key="SCRUM-T264">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:36:38 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Forget Password]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Forgot Password Option Clickable .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go To WebSite                              Click Login Page                          Click Forgot Password Option]]></description>
+                        <expectedResult><![CDATA[You Must See Option of Forgot Password Must Be clickable]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660041" key="SCRUM-T265">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:36:38 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Forget Password]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Email Enter In the Forgot Option Page Is Valid .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go To WebSite                              Click Login Page                          Click Forgot Password Option]]></description>
+                        <expectedResult><![CDATA[You Successfully Sent Code in your Account You Must See]]></expectedResult>
+                        <testData><![CDATA[prw123@gmail.com]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660042" key="SCRUM-T266">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:36:38 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Forget Password]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Email Enter In the Forgot Option Page Is inValid .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go To WebSite                              Click Login Page                          Click Forgot Password Option]]></description>
+                        <expectedResult><![CDATA[Error Message : Email Address was not Found in our Records.]]></expectedResult>
+                        <testData><![CDATA[askfa1234@gmail.com]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660043" key="SCRUM-T267">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:36:38 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Forget Password]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check If User never enter any email then Click Submit button..]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go To WebSite                              Click Login Page                          Click Forgot Password Option]]></description>
+                        <expectedResult><![CDATA[Error Message : Email Address was not Found in our Records.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660056" key="SCRUM-T268">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:41:42 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Search Functionality]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Search Option is Clickable .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[GO To Web site                       Login the you See Home page]]></description>
+                        <expectedResult><![CDATA[You Must See Search  Option Is Clickable]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660057" key="SCRUM-T269">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:41:42 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Search Functionality]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Search Box Option is Clickable .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[GO To Web site                       Login the you See Home page]]></description>
+                        <expectedResult><![CDATA[You Must See Search  box Option Is Clickable]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660058" key="SCRUM-T270">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:41:43 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Search Functionality]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Search is Accept Special character .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[GO To Web site                       Login the you See Home page]]></description>
+                        <expectedResult><![CDATA[Not Show  any Error]]></expectedResult>
+                        <testData><![CDATA[****@]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660059" key="SCRUM-T271">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:41:43 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Search Functionality]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Search Field is Accept number.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[GO To Web site                       Login the you See Home page]]></description>
+                        <expectedResult><![CDATA[Not Show  any Error]]></expectedResult>
+                        <testData><![CDATA[****7593]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660060" key="SCRUM-T272">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:41:43 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Search Functionality]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Search Field is Accept Mixed Characters.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[GO To Web site                       Login the you See Home page]]></description>
+                        <expectedResult><![CDATA[Not Show  any Error]]></expectedResult>
+                        <testData><![CDATA[******]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660061" key="SCRUM-T273">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:41:43 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Search Functionality]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Search field Accept Empty Search.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[GO To Web site                       Login the you See Home page]]></description>
+                        <expectedResult><![CDATA[Not Show  any Error]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660062" key="SCRUM-T274">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:41:43 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Search Functionality]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if user Search something ,it  show previous  searches.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[GO To Web site                       Login the you See Home page]]></description>
+                        <expectedResult><![CDATA[Not Show  any Error]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660063" key="SCRUM-T275">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:41:43 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Search Functionality]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if User Search perticular item , there is no item is like that.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[GO To Web site                       Login the you See Home page]]></description>
+                        <expectedResult><![CDATA[Not Show  any Error]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660125" key="SCRUM-T276">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:51:22 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Product Compare]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Product compare Show Valid Information]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Not Applicable]]></description>
+                        <expectedResult><![CDATA[You Must See , Product Compare must be Show Correct information]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660126" key="SCRUM-T277">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:51:22 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Product Compare]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if User want to show product In List .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Product Compare -List]]></description>
+                        <expectedResult><![CDATA[You Must See Product Comparison RESULT in List Category]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660127" key="SCRUM-T278">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:51:22 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Product Compare]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if User want to show product In Grid .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Product Compare -Grid]]></description>
+                        <expectedResult><![CDATA[You Must See Product Comparison RESULT  in Grid Category]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660128" key="SCRUM-T279">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:51:22 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Product Compare]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if User want to show product in A to Z]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Product Compare -A to Z]]></description>
+                        <expectedResult><![CDATA[You Must See Product Comparison RESULT in A to Z Category]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660129" key="SCRUM-T280">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:51:22 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Product Compare]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if User Wants to show Product in Z to A]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Product Compare -Z to A]]></description>
+                        <expectedResult><![CDATA[You Must See Product Comparison RESULT in Z to A Category]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660130" key="SCRUM-T281">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:51:23 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Product Compare]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if User Wants to show Product in Low >High]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Product Compare -Low&gt;High]]></description>
+                        <expectedResult><![CDATA[You Must See Product Comparison RESULT in Low&gt;High Category]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660131" key="SCRUM-T282">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:51:23 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Product Compare]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if User Wants to show Product in High >Low]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Product Compare -High &gt;Low]]></description>
+                        <expectedResult><![CDATA[You Must See Product Comparison RESULT in HIGH&gt;low Category]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660132" key="SCRUM-T283">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:51:23 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Product Compare]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if User Wants to show Product in Highest]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Product Compare -Highest]]></description>
+                        <expectedResult><![CDATA[You Must See Product Comparison RESULT in Highest Category]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660133" key="SCRUM-T284">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:51:23 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Product Compare]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if User Wants to show Product in Lowest]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Product Compare -Lowest]]></description>
+                        <expectedResult><![CDATA[You Must See Product Comparison RESULT in Lowest Category]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660134" key="SCRUM-T285">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:51:23 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Product Compare]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if User Wants to show only 25 Products]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Product Compare -25]]></description>
+                        <expectedResult><![CDATA[You Must See Product Comparison RESULT   In 25 only product.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660135" key="SCRUM-T286">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 14:51:23 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check All the Field Like Sort By ,list ,grid,Are Working As per time.]]></name>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Not Applicable]]></description>
+                        <expectedResult><![CDATA[You must be See all comarison must be  Work as Expected.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660218" key="SCRUM-T287">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:05:26 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Add To Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Add To cart Functionality See in home page]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click Add To Cart]]></description>
+                        <expectedResult><![CDATA[You Must See ADD to cart Functionality.]]></expectedResult>
+                        <testData><![CDATA[Not Aplicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660219" key="SCRUM-T288">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:05:26 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Add To Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Add to Cart Clickable .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click Add To Cart]]></description>
+                        <expectedResult><![CDATA[You Must See ADD to cart Functionality is Clickable.]]></expectedResult>
+                        <testData><![CDATA[Not Aplicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660220" key="SCRUM-T289">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:05:26 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Add To Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check how much time to take to open Add to Cart Field.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click Add To Cart]]></description>
+                        <expectedResult><![CDATA[You Must see Add to Cart open Within time.]]></expectedResult>
+                        <testData><![CDATA[Not Aplicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660221" key="SCRUM-T290">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:05:26 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Add To Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Add to Cart Select correct Product .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click Add To Cart]]></description>
+                        <expectedResult><![CDATA[You must See ADD to Cart Select Correct product.]]></expectedResult>
+                        <testData><![CDATA[Not Aplicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660222" key="SCRUM-T291">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:05:26 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Add To Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Image is valid or Clear]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click Add To Cart]]></description>
+                        <expectedResult><![CDATA[Image Must be Valid And Clear , You Must be See]]></expectedResult>
+                        <testData><![CDATA[Not Aplicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660223" key="SCRUM-T292">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:05:26 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Add To Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Product name is valid]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click Add To Cart]]></description>
+                        <expectedResult><![CDATA[Product Name Must be Valid.]]></expectedResult>
+                        <testData><![CDATA[Not Aplicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660224" key="SCRUM-T293">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:05:26 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Add To Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Model ,Qualtity ,Unit price]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click Add To Cart]]></description>
+                        <expectedResult><![CDATA[Model , price Must be valid, You must be See]]></expectedResult>
+                        <testData><![CDATA[Not Aplicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660225" key="SCRUM-T294">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:05:26 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Add To Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check If user wants to add and Delete quantity of product.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click Add To Cart]]></description>
+                        <expectedResult><![CDATA[User Must be Add And deletes Qualtity of product you Must see.]]></expectedResult>
+                        <testData><![CDATA[Not Aplicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660226" key="SCRUM-T295">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:05:26 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Add To Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if User Wants to Update product]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click Add To Cart]]></description>
+                        <expectedResult><![CDATA[User Must be Update Products, You must be see]]></expectedResult>
+                        <testData><![CDATA[Not Aplicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660368" key="SCRUM-T296">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:18:02 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Shopping Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Logo/image of the product .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click Shoping Cart]]></description>
+                        <expectedResult><![CDATA[Image or logo Must be Clear]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660369" key="SCRUM-T297">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:18:02 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Shopping Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Product Name is valid.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click Shoping Cart]]></description>
+                        <expectedResult><![CDATA[Product Name must be Valid . You Must See]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660370" key="SCRUM-T298">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:18:02 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Shopping Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Model name is valid.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click Shoping Cart]]></description>
+                        <expectedResult><![CDATA[Product Model name must be Valid . You Must See]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660371" key="SCRUM-T299">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:18:02 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Shopping Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Quantity of product as per user expection.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click Shoping Cart]]></description>
+                        <expectedResult><![CDATA[Quantity of Product Must be of User Expectation.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660372" key="SCRUM-T300">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:18:02 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Shopping Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check If User want add quantity .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click Shoping Cart]]></description>
+                        <expectedResult><![CDATA[User must be Add Quantity.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660373" key="SCRUM-T301">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:18:02 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Shopping Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Coupon Code is valid.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click Shoping Cart]]></description>
+                        <expectedResult><![CDATA[User Successfully Access Coupon code..]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660374" key="SCRUM-T302">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:18:02 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Shopping Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if Coupon Code is invalid.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click Shoping Cart]]></description>
+                        <expectedResult><![CDATA[Coupon Code invalid , Must be See]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660375" key="SCRUM-T303">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:18:02 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Shopping Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Shipping & Taxes Show correct Information.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click Shoping Cart]]></description>
+                        <expectedResult><![CDATA[You Must See Shipping &amp; Taxex Must be show Correct Information.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660376" key="SCRUM-T304">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:18:02 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Shopping Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check User select Region As per Country field.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click Shoping Cart]]></description>
+                        <expectedResult><![CDATA[User must be Select Region As per Country. You Must See.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660377" key="SCRUM-T305">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:18:02 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Shopping Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Post Code is valid.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click Shoping Cart]]></description>
+                        <expectedResult><![CDATA[Post Code Must be Valid.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660378" key="SCRUM-T306">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:18:02 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Shopping Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Gift Certificate is valid.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click Shoping Cart]]></description>
+                        <expectedResult><![CDATA[User Successfully Access Gift Certificate, You must see.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660379" key="SCRUM-T307">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:18:02 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Shopping Cart]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Gift Certificate is invalid.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click Shoping Cart]]></description>
+                        <expectedResult><![CDATA[Gift Certificate must be Invalid]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660402" key="SCRUM-T308">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:27:05 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Wish List]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Logo/image of the product .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click Wish List]]></description>
+                        <expectedResult><![CDATA[Logo or Image Of the Product Must be Clear.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660403" key="SCRUM-T309">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:27:05 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Wish List]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Product Name is valid.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click Wish List]]></description>
+                        <expectedResult><![CDATA[Product name Must be Valid.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660404" key="SCRUM-T310">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:27:05 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Wish List]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Model name is valid.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click Wish List]]></description>
+                        <expectedResult><![CDATA[Model name must be valid.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660405" key="SCRUM-T311">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:27:05 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Wish List]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Quantity of product as per user expection.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click Wish List]]></description>
+                        <expectedResult><![CDATA[Quantity of product must be Valid or correct.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660406" key="SCRUM-T312">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:27:05 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Wish List]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check If User want add quantity .]]></name>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click Wish List]]></description>
+                        <expectedResult><![CDATA[User Must be Add more Quantity.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660421" key="SCRUM-T313">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:32:24 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Account Information]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Account Information option Is clickable.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[You Must See Account Information Option Must be Clickable]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660422" key="SCRUM-T314">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:32:24 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Account Information]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check How Much time take to open Account information.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[You Must see , Option Must Be open Within Time.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660423" key="SCRUM-T315">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:32:25 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Account Information]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check All the element like My Account , My order is present .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[You Must see , All element Must be Present.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660424" key="SCRUM-T316">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:32:25 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Account Information]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check All the element in Accpunt page is Clickable .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[You Must See,  All the element must be clickable.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660425" key="SCRUM-T317">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:32:25 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Account Information]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Spell of the all the field of Account page.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[You Must see Spell of  All the Field must be correct]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660426" key="SCRUM-T318">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:32:25 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Account Information]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check In Account Page all the field Show Correct Information.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[You must See All the field must be Show Correct information.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660427" key="SCRUM-T319">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:32:25 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Account Information]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check How Much time take to open Option in account page.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[You Must see All field must open With time.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660428" key="SCRUM-T320">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:32:25 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Account Information]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Buttons likes "Continue" is Clickable or how much its take to open.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[You Must See Continue Option Click must be  Within time.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660429" key="SCRUM-T321">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:32:25 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Account Information]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Fields of right side bar are clerly to used]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[All the right Side Field must be see.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660430" key="SCRUM-T322">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:32:25 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Account Information]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Fields of right side bar are show correct information and open within time.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[in Right Side , All the Field must be Show Correct information.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660478" key="SCRUM-T323">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:42:08 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Change Password]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Change Password Show in Bar .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account                                      You see CHANGE PASSWORD]]></description>
+                        <expectedResult><![CDATA[Change Password Must be Show bar , Must be See]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660479" key="SCRUM-T324">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:42:08 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Change Password]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check change Password is Option Clickable .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account                                      You see CHANGE PASSWORD]]></description>
+                        <expectedResult><![CDATA[Change Password must Be not Clickable Must be See]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660480" key="SCRUM-T325">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:42:08 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Change Password]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if user did not enter password.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account                                      You see CHANGE PASSWORD]]></description>
+                        <expectedResult><![CDATA[Password must Be Required.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660481" key="SCRUM-T326">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:42:08 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Change Password]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check limit of the password.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account                                      You see CHANGE PASSWORD]]></description>
+                        <expectedResult><![CDATA[Password must Be Between 2 to 20 Characters]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660482" key="SCRUM-T327">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:42:08 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check How much Special Character , Character ,Number , And length of the password.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account                                      You see CHANGE PASSWORD]]></description>
+                        <expectedResult><![CDATA[Password Must be Not Clickable ,You Must See]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660483" key="SCRUM-T328">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:42:08 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Change Password]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check If user for Only One Category like only number are Followed.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account                                      You see CHANGE PASSWORD]]></description>
+                        <expectedResult><![CDATA[Password Must be Not Clickable ,You Must See]]></expectedResult>
+                        <testData><![CDATA[12345]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660484" key="SCRUM-T329">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:42:08 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Change Password]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check password and Current Password are same.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account                                      You see CHANGE PASSWORD]]></description>
+                        <expectedResult><![CDATA[Password Must be Not Clickable ,You Must See]]></expectedResult>
+                        <testData><![CDATA[xyz@123                                       xyz@123]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660485" key="SCRUM-T330">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:42:08 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Change Password]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check password and Current Password are not same.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account                                      You see CHANGE PASSWORD]]></description>
+                        <expectedResult><![CDATA[Password Must be Not Clickable ,You Must See]]></expectedResult>
+                        <testData><![CDATA[xyz@123                                       xyz@124]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660486" key="SCRUM-T331">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:42:08 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Change Password]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Continue Button is clickable within time.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account                                      You see CHANGE PASSWORD]]></description>
+                        <expectedResult><![CDATA[Continue Button Must be Clickable Within Time]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660528" key="SCRUM-T332">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:50:45 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Address Book]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if user want to store different Addresses]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account                                      You see Order History]]></description>
+                        <expectedResult><![CDATA[User Must Be Store Different Address ,You Must See]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660529" key="SCRUM-T333">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:50:45 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Address Book]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Address Accept Special Character, Character , Number.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account                                      You see Order History]]></description>
+                        <expectedResult><![CDATA[Special Characterss Must be Not Allowed]]></expectedResult>
+                        <testData><![CDATA[XYZ,12 Road @]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660530" key="SCRUM-T334">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:50:45 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Address Book]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if User want to edit Address.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account                                      You see Order History]]></description>
+                        <expectedResult><![CDATA[Address Must be Edited]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660531" key="SCRUM-T335">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:50:45 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Address Book]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if User want to delet Address.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account                                      You see Order History]]></description>
+                        <expectedResult><![CDATA[Action Must be Not successful]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660543" key="SCRUM-T336">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:54:17 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Order History]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check all the Points like Order ID , Customer Are Present in page.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account            You see Order History]]></description>
+                        <expectedResult><![CDATA[You Must See ,All the important items MUST BE  present.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660544" key="SCRUM-T337">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:54:17 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Order History]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Order ID is Valid or Correct.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account            You see Order History]]></description>
+                        <expectedResult><![CDATA[You Must See ,Order ID MUST be Valid.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660545" key="SCRUM-T338">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:54:17 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Order History]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Customer  name is correct.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account            You see Order History]]></description>
+                        <expectedResult><![CDATA[You Must See ,name  MUST be Valid.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660546" key="SCRUM-T339">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:54:17 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Order History]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check no. of product is correct.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account            You see Order History]]></description>
+                        <expectedResult><![CDATA[You Must See ,Product Number MUST be Correct.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660547" key="SCRUM-T340">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:54:17 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Order History]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check status of the product.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account            You see Order History]]></description>
+                        <expectedResult><![CDATA[You Must See ,Status MUST be Valid.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660548" key="SCRUM-T341">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:54:17 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Order History]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Total.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account            You see Order History]]></description>
+                        <expectedResult><![CDATA[You Must See ,total MUST be Correct.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660549" key="SCRUM-T342">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:54:17 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Order History]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Date is correct.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account            You see Order History]]></description>
+                        <expectedResult><![CDATA[You Must See ,Date MUST be Valid.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660550" key="SCRUM-T343">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 15:54:17 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Order History]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if user want check Another page information, 2nd Page option show.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then click My Account            You see Order History]]></description>
+                        <expectedResult><![CDATA[You Must See,If User Want to check Another page , it must be see In second page.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660577" key="SCRUM-T344">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 16:00:01 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Checkout Option see in Symbol In Page.]]></name>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                       Login and then                                   click CheckOut Symbol]]></description>
+                        <expectedResult><![CDATA[User Must be See Checkout Option.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660578" key="SCRUM-T345">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 16:00:01 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check All the important field Show In Checkout page.]]></name>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                       Login and then                                   click CheckOut Symbol]]></description>
+                        <expectedResult><![CDATA[User Must see All the important Option .]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660579" key="SCRUM-T346">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 16:00:01 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check All the Option Are Clickable.]]></name>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                       Login and then                                   click CheckOut Symbol]]></description>
+                        <expectedResult><![CDATA[You Must be See All the Option must be Clickable.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660580" key="SCRUM-T347">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 16:00:01 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Billing details Show Correct Information.]]></name>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                       Login and then                                   click CheckOut Symbol]]></description>
+                        <expectedResult><![CDATA[You Must be See Billing Details must be Showed Correct Information.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660581" key="SCRUM-T348">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 16:00:01 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check in Billing Details - if user Want to use Exiting Address.]]></name>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                       Login and then                                   click CheckOut Symbol]]></description>
+                        <expectedResult><![CDATA[You Must be See User must be Add Exiting Address.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660582" key="SCRUM-T349">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 16:00:01 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check in Billing Details -Check All the Addresses show in Drop down.]]></name>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                       Login and then                                   click CheckOut Symbol]]></description>
+                        <expectedResult><![CDATA[You Must be See Addresses Must be Show in drop down.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660583" key="SCRUM-T350">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 16:00:01 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Billing Details -if user Want to Create New Address.]]></name>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                       Login and then                                   click CheckOut Symbol]]></description>
+                        <expectedResult><![CDATA[you Must be See, Radiobutton of New Address field Work As expected.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660584" key="SCRUM-T351">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 16:00:01 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Billing Details - new Address Radiobutton Work As expected.]]></name>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                       Login and then                                   click CheckOut Symbol]]></description>
+                        <expectedResult><![CDATA[you Must be See, Radiobutton of New Address field Work As expected.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660585" key="SCRUM-T352">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 16:00:01 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check In New Address Show Correct Information Related to Address.]]></name>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                       Login and then                                   click CheckOut Symbol]]></description>
+                        <expectedResult><![CDATA[You Must be see , New Address Field show Correct informaiton.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660586" key="SCRUM-T353">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 16:00:01 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check In New Address has all the filed like First Name , last name and many more .]]></name>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                       Login and then                                   click CheckOut Symbol]]></description>
+                        <expectedResult><![CDATA[You Must be See new Address must be has option like first name ,last name,many more.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="153660587" key="SCRUM-T354">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-14 16:00:01 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check all the field of new Address Work As expected and Click within time]]></name>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                       Login and then                                   click CheckOut Symbol]]></description>
+                        <expectedResult><![CDATA[You must be see New Address must be Work As expected.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154001196" key="SCRUM-T355">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:09:43 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[NewsLetter]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Newsletter option show in Right Side .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                     Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[Newsletter Must be See In Right bar]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154001197" key="SCRUM-T356">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:09:44 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[NewsLetter]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Newsletter option show Correct information.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                     Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[Newsletter must be Show Correct information]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154001198" key="SCRUM-T357">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:09:44 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[NewsLetter]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check radio button like y/n show to page]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                     Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[Newsletter Radio Button Show Yes And Not Option]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154001199" key="SCRUM-T358">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:09:44 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[NewsLetter]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Radiobutton is clickable .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                     Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[Radiobutton must Be Clickable]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154001537" key="SCRUM-T359">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:14:20 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Reward Point]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Reward Point Option show in Right side .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                     Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[You Must be See Reward point must in Right Side]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154001539" key="SCRUM-T360">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:14:20 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Reward Point]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Reward Point Option show Correct information .]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                     Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[You Must be See Reward point must Show Correct information.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154001541" key="SCRUM-T361">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:14:20 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Reward Point]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Date , description , point of the reward.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                     Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[You Must be See Reward point must Show Correct Date ,description]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154002199" key="SCRUM-T362">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:34:59 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Download]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Download Option Show Right Side.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                         Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[You Must be See Download option musT be in right Bar]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154002200" key="SCRUM-T363">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:34:59 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Download]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Download Option Show Correct Information.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                         Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[You Must be See Download option mus be Shows correct information]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154002201" key="SCRUM-T364">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:35:00 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Download]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Id of the order.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                         Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[You Must be See Download option must be Correct ID]]></expectedResult>
+                        <testData><![CDATA[141555]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154002202" key="SCRUM-T365">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:35:00 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Download]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Name of Order.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                         Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[You Must be See Download option must be Correct NAME]]></expectedResult>
+                        <testData><![CDATA[joe]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154002203" key="SCRUM-T366">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:35:00 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Download]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Cheak Size, date Of the Order.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                         Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[You Must be See Download option musT be corect SIZE, DATE, ORDER]]></expectedResult>
+                        <testData><![CDATA[6.5mb,1/1/2023,]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154002204" key="SCRUM-T367">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:35:00 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Download]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check If user Want to Check Another page Order details.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                         Login and then click My Account]]></description>
+                        <expectedResult><![CDATA[You Must be See Download option musT be See Another page.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154002605" key="SCRUM-T368">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:46:13 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Edit Account]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check All important Elements like first name, Last Name,email are present in page]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click My Account then See  EDIT Account]]></description>
+                        <expectedResult><![CDATA[You Must See ,All the elements must be Present.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154002606" key="SCRUM-T369">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:46:13 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Edit Account]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check all the field is clickable.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click My Account then See  EDIT Account]]></description>
+                        <expectedResult><![CDATA[You Must see All the field must be Clickable.]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154002607" key="SCRUM-T370">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:46:13 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Edit Account]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check limit of the First name field]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click My Account then See  EDIT Account]]></description>
+                        <expectedResult><![CDATA[You must be see , First name between 2 to 20 .]]></expectedResult>
+                        <testData><![CDATA[jennie]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154002608" key="SCRUM-T371">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:46:13 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Edit Account]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if first name is empty.]]></name>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click My Account then See  EDIT Account]]></description>
+                        <expectedResult><![CDATA[You must be see , First name is required]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154002609" key="SCRUM-T372">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:46:14 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Edit Account]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check limit of last name]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click My Account then See  EDIT Account]]></description>
+                        <expectedResult><![CDATA[You must be see , Last name must be between 2 to 20]]></expectedResult>
+                        <testData><![CDATA[doe]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154002610" key="SCRUM-T373">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:46:14 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Edit Account]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if Last name is empty.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click My Account then See  EDIT Account]]></description>
+                        <expectedResult><![CDATA[You must be see , Last name shoild be required]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154002611" key="SCRUM-T374">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:46:14 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Edit Account]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check Email field has accept email formate]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click My Account then See  EDIT Account]]></description>
+                        <expectedResult><![CDATA[You must be see ,Email must be accept Email formate]]></expectedResult>
+                        <testData><![CDATA[xyz123@gmail.com]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154002612" key="SCRUM-T375">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:46:14 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Edit Account]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if Email is empty]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click My Account then See  EDIT Account]]></description>
+                        <expectedResult><![CDATA[You must be see ,Email must be required]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154002613" key="SCRUM-T376">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:46:14 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Edit Account]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check telephone is valid]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click My Account then See  EDIT Account]]></description>
+                        <expectedResult><![CDATA[You must be see , Telephone should be valid]]></expectedResult>
+                        <testData><![CDATA[76823786098]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="154002614" key="SCRUM-T377">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Priyanka Gurav</createdBy>
+            <createdOn>2024-04-15 06:46:14 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Edit Account]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Check if telephone is empty.]]></name>
+            <owner>712020:00d9b85e-6016-4296-ab1b-cc72e39658e2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Go to WebSite                                         Login and then Click My Account then See  EDIT Account]]></description>
+                        <expectedResult><![CDATA[You must be see , Not show Any Error]]></expectedResult>
+                        <testData><![CDATA[Not Applicable]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>
